@@ -4,7 +4,7 @@ import src.Book;
 class App {
 
     public static void main(String[] args) {
-        Student Rakesh = new Student("Dvip Patel", "dvippatel98@gmail.com");
+        Student Rakesh = new Student("Dvip Patel", "dvipel96@gmail.com");
         Book book1 = new Book("Book 1", "Dvip Patel");
 
         Rakesh.borrowBook(book1);
